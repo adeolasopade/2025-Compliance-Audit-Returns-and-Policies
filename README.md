@@ -44,4 +44,4 @@ Future engagements will include structured post-audit reviews to close gaps, man
 
 ## Linked Project Documents
 
-[Data Protection Compliance & Policy Framework](https://drive.google.com/drive/folders/1myKPNm956vHf3Nv6j4QoZL2XwNXns263?usp=drive_link)
+[NDP Act Compliance Audit Returns and Info Sec Policies](https://drive.google.com/drive/folders/1myKPNm956vHf3Nv6j4QoZL2XwNXns263?usp=drive_link)
