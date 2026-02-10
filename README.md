@@ -1,4 +1,4 @@
-# Data Protection Compliance & Policy Framework
+# NDP Act Compliance Audit Returns and Info Sec Policies
 
 *This project draws on real work, with all company details anonymised.*
 
