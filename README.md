@@ -1,10 +1,10 @@
 # NDP Act Compliance Audit Returns and Info Sec Policies
 
-*This project is inspired by real-world engagements; however, all documents have been independently recreated using synthetic data to reflect practical scenarios. No client materials are reproduced. All templates are either self-developed or properly licensed and are not proprietary to any organisation.*
+*This project reflects the type of work I lead and execute in real-world engagements. The documentation consolidates insights from that experience alongside my ongoing self-directed study. All materials use synthetic data—no client information is reproduced—and the templates are either self-developed or properly licensed and are not proprietary to any organisation.*
 
 ---
 
-Drafted 20 core information security and data protection [policies](https://drive.google.com/drive/folders/1LJobxE_gfj1HPHPJU3e760mnIeJn0Jn2?usp=drive_link) and delivered the 2025 NDP Act Compliance Audit [Returns](https://docs.google.com/document/d/1neMSN4ODYVA9BuL3en0MWmOmU7hyD3Pv/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true) (CAR) for Manifestation Insurance Ltd (MIL).
+Drafted 20 core information security and data protection [policies](https://drive.google.com/drive/folders/1LJobxE_gfj1HPHPJU3e760mnIeJn0Jn2?usp=drive_link) and carried out the 2025 NDP Act Compliance Audit [Returns](https://docs.google.com/document/d/1neMSN4ODYVA9BuL3en0MWmOmU7hyD3Pv/edit?usp=sharing&ouid=101134501969411208830&rtpof=true&sd=true) (CAR) for Manifestation Insurance Ltd (MIL).
 
 Identified high-risk gaps in cross-border transfers, consent management, and third-party agreements, and built an operational privacy [framework](https://docs.google.com/spreadsheets/d/1ytCpZT6yXjFjOOPF5gH84mpl2oOLeZy7/edit?usp=drive_link&ouid=101134501969411208830&rtpof=true&sd=true) to embed compliance into daily processes and reduce regulatory exposure.
 
